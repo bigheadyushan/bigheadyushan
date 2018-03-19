@@ -5,8 +5,8 @@ logo: /bigheadyushan_log/static/img/my_log.jpg
 github: https://github.com/bigheadyushan/
 about: Computing Advertising
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://github.com/bigheadyushan/bigheadyushan.github.io"
+url: "https://github.com/bigheadyushan/bigheadyushan.github.io"
 
 allowsearch: true
 
